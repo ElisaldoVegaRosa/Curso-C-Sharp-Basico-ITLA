@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo 2", "Modulo 2", "{FD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo2.Tarea1.Programa1", "Modulo 2\Modulo2.Tarea1.Programa1\Modulo2.Tarea1.Programa1.csproj", "{2394B7B1-D011-6F23-6685-993DF7C1FC0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo2.Tarea2.Programa2", "Modulo 2\Modulo2.Tarea1.Programa2\Modulo2.Tarea2.Programa2.csproj", "{D4D9D06B-FBEE-4980-9409-4CC71FBF0C3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo2.Tarea2.Programa2", "Modulo 2\Modulo2.Tarea2.Programa2\Modulo2.Tarea2.Programa2.csproj", "{D4D9D06B-FBEE-4980-9409-4CC71FBF0C3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
